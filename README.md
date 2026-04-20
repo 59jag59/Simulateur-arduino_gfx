@@ -76,6 +76,5 @@ Choisissez un exemple dans le menu déroulant, ou collez votre propre code
 Cliquez ▶ Run
 Testez le touch en cliquant sur l'écran
 Aucune installation, aucun serveur, tout est dans le fichier.
-
-Merci d'avance pour vos retours ! Si ça tient la route, je publierai sur GitHub avec une licence CC BY-NC 4.0.
+licence CC BY-NC 4.0.
 Développé par 59jag — 59jag59@gmail.com
